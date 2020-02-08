@@ -1,0 +1,18 @@
+baseURL = "http://freewill7.co.uk/"
+languageCode = "en-us"
+title = "freewill7.co.uk"
+theme = "mainroad"
+
+[Params]
+  readmore = true
+  highlightColor = "#e22d30" # Override highlight color
+  mainSections = ["posts"]
+
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "Apps"
+  url = "/apps"
